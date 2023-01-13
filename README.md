@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MiracleHu
-- 👀 I’m interested in FullStack web development
-- 🌱 I’m currently learning docker, python etc.
+- 👀 I’m interested in FullStack Web development
+- 🌱 I’m currently learning Docker, Python etc.
 - 💞️ Personal website: www.huhuanle.com
 
 <!---
